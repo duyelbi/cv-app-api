@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "name": "Duy Elbi",
+    "birthDate": "06/11/1999",
+    "email": "duylanh1818@gmail.com",
+    "phoneNumber": "+84379838974",
+    "Experience": "1 Years"
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "cv-app"
+    },
+    {
+      "title": "test add prooject",
+      "createdAt": 1629719347778,
+      "updatedAt": 1629719347778,
+      "id": "FnazV8d"
+    },
+    {
+      "title": "test add prooject",
+      "createdAt": 1629719369164,
+      "updatedAt": 1629719369164,
+      "id": "suQVfZO"
+    }
+  ]
+}
